@@ -1,0 +1,726 @@
+.fcc-banner {
+	
+	width: 1349px; 
+	min-height: 2450px; 
+	
+}
+
+.fcc-subject1 {
+	
+	font-size: 70px; 
+	font-family: 'Cabin', sans-serif; 
+	margin-top: 230px; 
+	margin-left: 10%; 
+	color: #111; 
+   
+}
+.fcc-subject2 {
+	
+	 
+	font-size: 70px; 
+	font-family: 'Cabin', sans-serif;
+	margin-top: -7px; 
+	margin-left: 10%; 
+	color:  #008037; 
+   
+}
+
+
+
+
+.fcc-content {
+	
+	
+	width: 1200px; 
+	height: 900px; 
+	margin: auto; 
+	position: relative; 
+	background: #f2f2f2; 
+	top: 70px; 
+	
+}
+
+.fcc-subject3 {
+	
+	
+	 
+	font-family: 'Cabin' , sans-serif; 
+	color: #999; 
+	font-size: 40px; 	
+	margin-top: 50px; 
+    display: block; 	
+	margin-left: 70px; 
+	position: absolute; 
+	
+}
+.fcc-subject3 a{
+	
+	text-decoration: underline;
+    color: #008040 !important; 	
+	
+}
+.fcc-subject3 a:hover{
+	
+	text-decoration: none; 
+	
+}
+
+
+.fcc-content1 {
+	
+	width: 1349px; 
+	height: 450px; 
+	position: absolute; 
+    margin-top: 1100px;   
+	 
+	
+	
+}
+
+.fcc-subject4 {
+	
+	margin-left: 70px; 
+	color: #111; 
+	font-size: 50px; 
+	font-family: 'Cabin', sans-serif; 
+	top: 140px; 
+	position: relative; 
+	
+	
+}
+
+.fcc-box {
+	
+	margin-left: 130px; 
+	margin-top: 260px; 
+	
+	
+}
+.fcc-boxes {
+	
+	
+	float: left; 
+	width: 330px; 
+	height: 220px; 
+	margin: auto !Important; 
+	display: block; 
+	
+	
+}
+.fcc-boxes h3{
+	
+	
+	
+	
+	color: #111; 
+	font-family: 'Roboto' , sans-serif; 
+	font-size: 18px; 
+	width: 310px; 
+    font-weight: 500; 
+	
+}
+
+.fcc-boxes .num{
+	
+	font-weight: bold; 
+	font-size: 70px; 
+	color: #999; 
+	text-align: center; 
+	display: block; 
+	margin-top: 22%; 
+	font-family: Arial; 
+	
+}
+.fcc-boxes .num1{
+	
+	font-weight: bold; 
+	font-size: 70px; 
+	color: #999; 
+	text-align: center; 
+	display: block; 
+	margin-top: 22%; 
+	font-family: Arial; 
+	
+}
+.fcc-boxes .num2{
+	
+	font-weight: bold; 
+	font-size: 70px; 
+	color: #999; 
+	text-align: center; 
+	display: block; 
+	margin-top: 22%; 
+	font-family: Arial; 
+	
+}
+.fcc-box1 h3{
+	
+	position: absolute; 
+	margin-top: 20px; 
+	margin-left: 30px; 
+
+}
+.fcc-box1 h3 img{
+	
+	position: absolute; 
+	margin-top: -1px; 
+	margin-left: 10px; 
+
+}
+
+
+.fcc-box2 {
+
+  border-left: 2px solid #111; 
+  border-right: 2px solid #111; 
+}
+.fcc-box2 h3{
+	
+	position: absolute; 
+	margin-top: 20px; 
+	margin-left: 55px; 
+
+}
+.fcc-box2 h3 img{
+	
+	position: absolute; 
+	margin-top: -1px; 
+	margin-left: 10px; 
+
+}
+.fcc-box3 h3{
+	
+	position: absolute; 
+	margin-top: 20px; 
+	margin-left: 75px; 
+
+}
+.fcc-box3 h3 img{
+	
+	position: absolute; 
+	margin-top: -1px; 
+	margin-left: 10px; 
+
+}
+
+.fcc-btn-contact {
+	
+	 position: absolute; 
+	 transform: translate(-50%, -50%); 
+	 margin-top: 67px; 
+	 text-decoration: none; 
+     left: 50%;
+     top: 80%; 	 
+	 background: #00b359; 
+	 width: 220px; 
+	 height: 65px; 
+	 border: 1px solid #00b359;  
+	 border-radius: 4px; 
+	 transition: .6s; 
+	 overflow: hidden; 
+	
+	 
+}
+.fcc-btn-contact a{
+	
+	text-decoration: none; 
+	color: #fff;
+	font-size: 21px;
+	font-family: 'Cabin', sans-serif;
+    	
+}
+.fcc-btn-contact:focus {
+	
+	outline: none; 
+}
+.fcc-btn-contact:before {
+	
+	content: ''; 
+	display: block; 
+	position: absolute; 
+	background: rgba(255,255,255,.5); 
+	width: 60px; 
+	height: 100%; 
+	top: 0; 
+	left: 0; 
+	opacity: .5s; 
+	filter: blur(30px); 
+	transform: translateX(-130px) skewX(-15deg);
+}
+.fcc-btn-contact:after {
+	
+	content: ''; 
+	display: block; 
+	position: absolute; 
+	background: rgba(255,255,255,.2); 
+	width: 30px; 
+	height: 100%; 
+	left: 30px; 
+	top: 0; 
+	opacity: 0; 
+	filter: blur(30px); 
+	transform: translate(-100px) scaleX(-15deg); 
+	
+	
+	
+}
+.fcc-btn-contact:hover {
+	
+	cursor: pointer; 
+	background:  #00e673 /*#00b359*/; 
+}
+.fcc-btn-contact:hover:before {
+	
+	transform: translateX(300px) skewX(-15deg); 
+	opacity: 1; 
+	transition: .7s; 
+	
+}
+
+/* FCC Progress bars*/
+
+.fcc-progress {
+	
+	
+	width: 500px; 
+	/*background-color: red rgb(56, 49, 49)*/
+	border-radius: 7px; 
+	margin: 18px 70px; 
+	height: 15px; 
+	background: #ccc; 
+	
+}
+
+.fcc-progress-bars {
+	
+	
+	height: 100%; 
+	width: 5%; 
+	background-color: rgb(19, 117, 124); 
+	border-radius: 7px; 
+	transition: all 1.5s; 
+	margin-top: 70px; 
+	margin-left: 70px; 
+	
+	
+}
+.fcc-progress-bar1 {
+	
+	
+	
+	background-color: #111; 
+	margin-top: 200px; 
+	margin-left: 0px;
+	
+}
+.fcc-progress-bar2 {
+	
+	
+	
+	background-color: #666; 
+	margin-top: 80px; 
+	margin-left: 0px;
+	
+}
+.fcc-progress-bar3 {
+	
+	
+	
+	background-color: #999; 
+	margin-top: 80px; 
+	margin-left: 0px;
+}
+.fcc-progress-bars span{
+	
+	
+	position: absolute; 
+	top: 0%; 
+	right: 0%; 
+	
+	
+}
+.fcc-progress-paragrafs {
+	
+	font-family: 'Cabin', sans-serif; 
+	font-size: 18px; 
+	
+	
+}
+.fcc-progress-p1 {
+	
+	color: #111; 
+	position: absolute; 
+	top: 280px; 
+	left: 70px; 
+	
+}
+.fcc-progress-p2 {
+	
+	color: #666; 
+	position: absolute; 
+	top: 375px; 
+	left: 70px; 
+	
+}
+.fcc-progress-p3{
+	
+	color: #999 !Important; 
+	position: absolute; 
+	top: 473px !important; 
+	left: 70px; 
+	font-size: 18px !important; 
+	
+}
+
+
+.fcc-progress-number {
+	
+	position: absolute; 
+	left: 274px; 
+	font-size: 30px; 
+	font-family: arial; 
+	color: #111; 
+	top: 220px; 
+	font-weight: bold; 
+
+}
+
+.fcc-progress-p5 {
+	
+	position: absolute; 
+	right: 280px; 
+	font-size: 18px; 
+	font-family: 'Cabin', sans-serif; 
+	color: #111; 
+	top: 275px; 
+	font-weight: bold; 
+
+}
+
+
+.fcc-progress-number1 {
+	
+	position: absolute; 
+	left: 288px; 
+	font-size: 30px; 
+	font-family: arial; 
+	color: #111; 
+	top: 315px; 
+	font-weight: bold; 
+
+}
+
+.fcc-progress-p6 {
+	
+	position: absolute; 
+	right: 280px; 
+	font-size: 18px; 
+	font-family: 'Cabin', sans-serif; 
+	color: #111; 
+	top: 373px; 
+	font-weight: bold; 
+
+}
+
+.fcc-progress-number2 {
+	
+	position: absolute; 
+	left: 288px; 
+	font-size: 30px; 
+	font-family: arial; 
+	color: #111; 
+	top: 410px; 
+	font-weight: bold; 
+
+}
+
+.fcc-progress-p7 {
+	
+	position: absolute; 
+	right: 280px; 
+	font-size: 18px; 
+	font-family: 'Cabin', sans-serif; 
+	color: #111; 
+	top: 473px; 
+	font-weight: bold; 
+
+}
+
+
+
+.fcc-progress-p4 {
+	
+	position: absolute; 
+	right: 147px; 
+	font-size: 22px; 
+	font-family: 'Cabin', sans-serif; 
+	color: #111; 
+	top:  430px; 
+	font-weight: bold; 
+
+}
+
+.fcc-github-progress-subject1 {
+	
+	color: #111; 
+	font-family: 'Cabin', sans-serif; 
+	font-weight: 900; 
+	position: absolute; 
+	left: 70px; 
+	font-size: 33px; 
+	margin-top: 80px; 
+	
+	
+	
+}
+.fcc-github-progress {
+	
+	
+	width: 600px; 
+	/*background-color: red rgb(56, 49, 49)*/
+	border-radius: 7px; 
+	margin: 170px 70px; 
+	height: 15px; 
+	background-color: #ccc;
+	
+}
+
+.fcc-progress-bar4 {
+	
+	
+	
+	background: linear-gradient(to right, #008040 , #00e673); 
+	margin-left: 0px; 
+	
+	
+}
+.fcc-github-progress-number {
+	
+	position: absolute; 
+	right: 160px; 
+	font-size: 90px; 
+	font-family: arial; 
+	color: #111; 
+	top: 590px; 
+	font-weight: bold; 
+
+}
+
+
+.cp-and-glitch {
+	
+	font-family: 'Cabin', sans-serif; 
+	font-size: 25px; 
+	color: #111; 
+	margin-left: 70px; 
+	font-weight: bold; 
+	margin-top: -30px; 
+	
+}
+
+
+.fcc-social-media {
+	
+	 
+	margin-top: -14px;  
+	margin-left: 66%; 
+	transform: translate(-50% , -50%);
+	display: flex; 
+	
+	
+	
+}
+
+.fcc-social-media li {
+	
+	list-style: none; 
+	
+}
+.fcc-social-media li a {
+	
+	width: 30px; 
+	height: 30px; 
+	background: #f2f2f2; 
+	text-align: center; 
+	line-height: 30px; 
+	font-size: 20px; 
+	margin: 0px 5px; 
+	display: block; 
+	border-radius: 50%; 
+	position: relative; 
+	border: 3px solid #111; 
+	overflow: hidden; 
+	z-index: 1; 
+}
+.fcc-social-media li a .fas{
+	
+	
+	color: #111; 
+	transition: .5s; 
+	z-index: 3; 
+	text-decoration: none; 
+	font-family: 'Cabin', sans-serif; 
+	font-weight: bold; 
+	
+	
+}
+.fcc-social-media li a .fa{
+	
+	
+	color: #111; 
+	transition: .5s; 
+	z-index: 3; 
+	
+	
+}
+.fcc-social-media li a:hover .fa {
+	
+	transform: rotateY(360deg); 
+	color: #fff; 
+	
+	
+	
+}
+.fcc-social-media li a:hover .fas {
+	
+	transform: rotateY(360deg); 
+	color: #fff; 
+	
+	
+	
+}
+
+.fcc-social-media li a:before {
+	
+	content: ''; 
+	position: absolute; 
+	top: 100%; 
+	left: 0; 
+	width: 100%; 
+	height: 100%; 
+	background: #f00;
+    transition: .5s; 	
+	z-index: 2; 
+	
+}
+.fcc-social-media li a:hover:before {
+	
+	top: 0; 
+	
+	
+	
+}
+
+.fcc-social-media li:nth-child(1) a:before {
+	
+	background: #111;
+	
+	
+}
+.fcc-social-media li:nth-child(2) a:before {
+	
+	background: linear-gradient(#ff66ff, #990099);
+	
+	
+}
+
+
+
+
+
+
+
+/*Ended FCC Progress bars*/
+.fcc-content2 {
+	
+	
+	position: absolute; 
+	width: 1349px; 
+	height: 1300px; 
+	margin-top: 200px; 
+
+}
+
+.fcc-subject5 {
+	
+	
+	display: block; 
+	text-align: center; 
+	display: block; 
+	font-family: 'Cabin' , sans-serif; 
+	font-size: 22px; 
+	color: #111; 
+}
+
+.cert-box {
+	
+	margin-top: 30px; 
+	
+}
+.cert-boxes {
+	
+	width: 410px; 
+	height: 450px; 
+	
+	float: left; 
+	margin-left: 30px; 
+	margin-top: 30px; 
+	
+	
+}
+.cert-boxes a{
+	
+	text-decoration: none; 
+	
+}
+
+.cert-boxes a img{
+	
+	width: 410px; 
+	height: 260px; 
+	
+	
+}
+
+.cert-boxes h3{
+	
+	text-align: center; 
+	display: block; 
+	margin-top: 20px; 
+	font-size: 21px; 
+	font-family: 'Open Sans', sans-serif; 
+	color: #111; 
+	font-weight: 500; 
+	width: 400px; 
+	
+}
+.cert-boxes p{
+	
+	text-align: center; 
+	display: block; 
+	margin-top: 20px; 
+	font-size: 17px; 
+	font-family: 'Cabin', sans-serif; 
+	color: #999; 
+	font-weight: bold; 
+	width: 400px; 
+	
+}
+.cert-boxes p a{
+	
+	text-decoration: underline; 
+	
+}
+.cert-boxes p a:hover{
+	
+	text-decoration: none; 
+	
+}
+
+
+
+
+
+
+
+/*Završetak kreiranja FCC linka*/

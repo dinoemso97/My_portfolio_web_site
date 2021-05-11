@@ -1,0 +1,930 @@
+@media screen and (max-width: 300px) { 
+
+
+
+.git-banner {
+	
+	width: 300px; 
+	height: 2200px; 
+}
+
+
+.github-subject1 {
+	
+	
+	
+	font-size: 50px; 
+	font-family: 'Cabin', sans-serif;  
+	margin-top: 230px;  
+	color: #999; 
+	font-weight: bold; 
+	margin-left: 5%;
+    letter-spacing: -1px; 	
+	
+	
+}
+.github-subject2 {
+	
+	
+	
+	font-family: 'Cabin' , sans-serif; 
+	color: #111; 
+	font-size: 50px; 
+	margin-top: -10px; 
+	margin-left: 5%; 
+	letter-spacing: 1px; 
+	
+	
+}
+.gitpng {
+	
+	
+	
+ 
+    margin: 8px 8px auto; 
+    position: absolute; 
+	width: 50px !Important; 
+	height: 50px !important; 
+}
+
+
+
+.github-subject3 {
+	
+	
+	text-align: center; 
+	font-family: 'Cabin' , sans-serif; 
+	color: #111; 
+	font-size: 35px; 	
+	margin-top: 80px; 
+	 
+	
+	
+}
+
+
+.github-banner-content {
+	
+	width: 300px; 
+	height: 2000px; 
+	position: absolute; 
+	margin-top: -190px; 
+	 
+   
+}
+.github-boxes-cont {
+	
+	width: 300px; 
+	position: absolute; 
+	left: 0; 
+}
+.github-boxes {
+	
+	
+	
+	width: 270px; 
+	height: 240px;
+	border-radius: 2px; 
+	display: block;  
+	border: 1px solid #f2f2f2;  
+	float: left; 
+	margin-left: 15px;
+    margin-top: 250px;	
+	box-shadow: 0px 1px 5px rgba(0,0,0,.1);	
+	background: #002633; 
+	 
+	
+}
+.github-boxes h2{
+	
+	
+	
+	color: #fff; 
+    margin-left: 30px;   
+    margin-top: 20px; 
+    font-size: 20px; 
+    font-family: 'Cabin' , sans-serif; 
+	box-shadow: 
+      
+	
+	
+}
+.github-boxes img{
+	
+	
+	position: absolute; 
+	width: 250px; 
+	height: 220px; 
+	margin-top: 8px;
+    margin-left: 10px; 	 	
+	border-radius: 10px;
+      
+	
+	
+}
+.github-boxes a{
+	
+	
+	text-decoration: none; 
+      
+	
+	
+}
+.github-boxes p{
+	
+	
+	position: absolute; 
+	margin-top: 260px; 
+    color: #999; 
+    font-family: 'Cabin', sans-serif; 
+    font-size: 14px;
+    font-weight: bold;
+    width: 265px;  	
+    	
+	
+      
+	
+	
+}
+
+.github-boxes p a{
+	
+	
+	font-size: 16px; 
+    color: #00994d; 
+    margin-left: 6px; 
+    letter-spacing: 1px;   	
+    text-decoration: none; 
+	
+      
+	
+	
+}
+
+.github-box {
+	
+	background: #00b359; 
+}
+
+.github-box1 {
+	
+	background: #e6e600; 
+}
+
+.github-box1:hover{
+	
+	
+	background: #cccc00 !Important;
+	transition: all .4s; 
+
+}
+
+
+.github-box:hover{
+	
+	
+	background: #00cc66; 
+    transition: all .4s ; 	
+
+}
+
+.github-box2 {
+	
+	background: #ff6666; 
+}
+
+.github-box2:hover {
+	
+	background: ##ff8080; 
+	transition: all .4s; 
+}
+
+
+
+
+.github-box3{
+	
+	
+	background: #8080ff 
+   	
+
+}
+.github-box3:hover{
+	
+	
+	background:  #9999ff;
+	transition: all .4s; 
+
+}
+
+.github-btn {
+	
+	position: absolute; 
+	margin-top: 340px; 
+	width: 130px; 
+	height: 42px; 
+	color: #111; 
+	font-family: 'Cabin', sans-serif; 
+	border: 1px solid #ccc; 
+	border-radius: 1px; 
+	background: #f2f2f2; 
+	
+	
+}
+.github-btn:hover {
+	
+	
+	background: #ccc; 
+	
+	
+}
+.github-btn font{
+	
+   
+   margin-left: -30px; 
+   font-size: 17px;  
+     
+	
+	
+}
+.github-btn img{
+	
+   width: 23px; 
+   height: 23px; 
+   margin-top: -2px;
+   margin-left: 7px;   
+  
+	
+}
+
+.github-moredetails {
+	
+	
+	
+}
+.github-moredetails h4{
+	position: absolute; 
+	text-decoration: underline; 
+	font-family: 'Patua One', cursive; 
+	color: #00994d; 
+	font-size: 15px; 
+	margin-top: 366px; 
+	margin-left: 124px;
+    letter-spacing: 1px; 	
+	
+	
+	
+}
+
+.github-moredetails ul {
+	
+	 
+	width: 170px;
+	height: 60px; 
+	background: linear-gradient(to right,  #f8b9c6,  #ee4466 70%); 
+	bottom: 650px;   
+	margin-left: 65px;
+	box-sizing: border-box; 
+	transition: 0.5s; 
+    visibility: hidden; 
+	opacity: 0; 
+	padding: 20px; 
+	border-radius: 12px; 
+	transform: translateX(-50%) translateY(-50px);
+	display: none; 
+	
+}
+.github-moredetails ul:before {
+	
+	content: ''; 
+	position: absolute; 
+	width: 30px; 
+	height: 30px; 
+	background: #ee4466; 
+	bottom: 25%; 
+	left: 85%; 
+	transform: rotate(45deg);
+	
+	
+}
+
+
+
+.github-moredetails ul li{
+	
+	list-style: none; 
+	
+}
+
+.github-moredetails:hover ul {
+	
+	visibility: visible; 
+	opacity: 1; 
+	transform: translateX(-50%) translateY(0px);
+	
+	
+	
+}
+.github-content {
+	
+	width: 300px; 
+	display: block; 
+}
+.github-content font {
+	
+	
+	color:  #fff; 
+	font-family: 'Cabin' , sans-serif; 
+	font-weight: bold; 
+	font-size: 19px; 
+	position: absolute; 
+	margin-top: -2px; 
+}
+
+.github-moredetails1 {
+	
+	
+	
+}
+.github-moredetails1 h4{
+	position: absolute; 
+	text-decoration: underline; 
+	font-family: 'Patua One', cursive; 
+	color: #00994d; 
+	font-size: 15px; 
+	margin-top: 366px; 
+	margin-left: 124px;
+    letter-spacing: 1px; 	
+	
+	
+	
+}
+
+.github-moredetails1 ul {
+	
+	 
+	width: 170px;
+	height: 60px; 
+	background: linear-gradient(to left, #99e6ff ,#80bfff 50%); 
+	bottom: 650px;   
+	margin-left: 415px;
+	box-sizing: border-box; 
+	transition: 0.5s; 
+    visibility: hidden; 
+    opacity: 0; 
+	padding: 20px; 
+	border-radius: 12px; 
+	transform: translateX(-50%) translateY(-50px);
+	display: none; 
+	
+}
+.github-moredetails1 ul:before {
+	
+	content: ''; 
+	position: absolute; 
+	width: 30px; 
+	height: 30px; 
+	background: #80bfff; 
+	bottom: 25%; 
+	left: -8px; 
+	transform: rotate(45deg);
+	
+	
+}
+
+
+
+.github-moredetails1 ul li{
+	
+	list-style: none; 
+	
+}
+
+.github-moredetails1:hover ul {
+	
+	visibility: visible; 
+	opacity: 1; 
+	transform: translateX(-50%) translateY(0px);
+	
+	
+	
+}
+.github-content1 {
+	
+	width: 310px; 
+	display: block; 
+}
+.github-content1 font {
+	
+	
+	color:  #fff; 
+	font-family: 'Cabin' , sans-serif; 
+	font-weight: bold; 
+	font-size: 19px; 
+	position: absolute; 
+	margin-top: -2px; 
+}
+
+
+/*
+.github-moredetails1{
+	
+	width: 300px; 
+	
+	
+	
+}
+
+
+.github-moredetails1 h4{
+	position: absolute; 
+	text-decoration: underline; 
+	font-family: 'Patua One', cursive; 
+	color: #00994d; 
+	font-size: 15px; 
+	margin-top: 366px; 
+	margin-left: 124px;
+    letter-spacing: 1px;
+      	
+	
+	
+	
+}
+
+.github-moredetails1 ul {
+	
+	position: absolute;  
+	width: 180px;
+	height: 60px; 
+	background: #e6e6e6; 
+	bottom: 650px; 
+	box-sizing: border-box; 
+	transition: 0.5s; 
+	left: 1100px;
+	visibility: hidden; 
+	opacity: 0px;  
+	padding: 20px; 
+	border-radius: 12px; 
+	transform: translateX(-50%) translateY(-50px);
+	
+}
+.github-moredetails1 ul:before {
+	
+	content: ''; 
+	position: absolute; 
+	width: 30px; 
+	height: 30px; 
+	background: #e6e6e6; 
+	bottom: 25%; 
+	left: -8px; 
+	transform: rotate(45deg);
+	
+	
+}
+
+
+
+.github-moredetails1 ul li{
+	
+	list-style: none; 
+	
+}
+
+.github-moredetails1:hover ul {
+	
+	visibility: visible; 
+	opacity: 1; 
+	transform: translateX(-50%) translateY(0px);
+	
+	
+	
+}
+.github-content1 {
+	
+	width: 310px; 
+	display: block; 
+}
+.github-content1 font {
+	
+	
+	color: #666; 
+	font-family: 'Roboto' , sans-serif; 
+	font-weight: bold; 
+	position: absolute; 
+	font-size: 18px; 
+}
+
+
+
+
+/*Početak kreiranja prve github-one stranice*/
+
+
+.github-one-banner {
+	
+	
+	width: 100%; 
+	height: 2250px; 
+	display: block; 
+    margin-top: 90px; 
+
+}
+
+.github-one-subject1 {
+	
+	display: block; 
+	text-align: center; 
+	font-size: 43px; 
+	color: #111; 
+	margin-top: 75px !important; 
+	font-family: 'Patua One', cursive; 
+	
+	
+	
+}
+.gitpng1 {
+	
+	position: absolute; 
+	left: 71% ;
+    margin-top: 3px; 	
+	
+}
+.github-one-subject2 {
+	
+	display: block; 
+	text-align: center; 
+	font-size: 25px; 
+	color: #008037; 
+	margin-top: 60px !important; 
+	font-family: 'Cabin', sans-serif; 
+	width: 900px; 
+	position: absolute; 
+	left: 18%; 
+	
+	
+}
+.github-one-subject2 a{
+	
+	color: #111; 
+   text-decoration: none; 	
+	
+	
+}
+
+.github-one-subject2 a:hover{
+	
+	 
+   text-decoration: underline; 	
+	
+	
+}
+.github-one-subject3 {
+	
+	display: block; 
+	font-size: 35px; 
+	color: #111; 
+	top: 30px; 
+	font-family: 'Cabin' , sans-serif; 
+
+	position: absolute; 
+	left: 44%; 
+	
+	
+}
+
+.explain-project {
+	
+	
+	width: 100%; 
+	height: 340px; 
+	 
+    position: absolute; 
+    display: block; 	
+	top: 75px; 
+	
+	
+}
+
+
+.images-project1 {
+	
+	
+	position: absolute; 
+	display: block;  
+	width: 100%; 
+	top: 65%; 
+	
+	
+}
+.images-project-boxes {
+	
+	float: left; 
+	width: 674px; 
+	height: 400px; 
+	background: red; 
+	
+	
+}
+
+
+
+.images-project-box1 {
+	
+	
+	
+	margin-top: 140px; 
+	
+}
+.images-project-box1 img{
+	
+	
+	width: 674px; 
+	height: 400px; 
+	
+}
+
+.images-project-box2 {
+	
+	
+	background: #f2f2f2; 
+	margin-top: 140px; 
+	
+}
+.images-project-box2 h3{
+	
+	font-family: 'Ubuntu', sans-serif; 
+	display: block; 
+	margin-top: 70px; 
+	font-size: 30px; 
+	color: #00004d; 
+	font-weight: bold; 
+	width: 400px; 
+	margin-left: 170px; 
+	
+}
+.images-project-box2 p{
+	
+	font-family: 'Open Sans' , sans-serif; 
+	display: block; 
+	 
+	margin-top: 50px; 
+	font-size: 20px; 
+	color: #00004d; 
+	width: 550px; 
+	margin-left: 70px; 
+	
+}
+
+.images-project-box3 {
+	
+	
+	background: #f2f2f2; 
+ 
+	
+}
+.images-project-box3 h3{
+	
+	font-family: 'Ubuntu', sans-serif; 
+	display: block; 
+	margin-top: 70px; 
+	font-size: 30px; 
+	color: #00004d; 
+	font-weight: bold; 
+	width: 400px; 
+	margin-left: 170px; 
+	
+}
+.images-project-box3 p{
+	
+	font-family: 'Open Sans' , sans-serif; 
+	display: block; 
+	 
+	margin-top: 50px; 
+	font-size: 20px; 
+	color: #00004d; 
+	width: 550px; 
+	margin-left: 70px; 
+	
+}
+.images-project-box4 {
+	
+	
+	
+
+	
+}
+.images-project-box4 img{
+	
+	
+	width: 674px; 
+	height: 400px; 
+	
+}
+
+.images-project-box5 {
+	
+	
+	
+	
+	
+}
+.images-project-box5 img{
+	
+	
+	width: 674px; 
+	height: 400px; 
+	
+}
+
+.images-project-box6 {
+	
+	
+	background: #f2f2f2; 
+	 
+	
+}
+.images-project-box6 h3{
+	
+	font-family: 'Ubuntu', sans-serif; 
+	display: block; 
+	margin-top: 70px; 
+	font-size: 30px; 
+	color: #00004d; 
+	font-weight: bold; 
+	width: 400px; 
+	margin-left: 170px; 
+	
+}
+.images-project-box6 p{
+	
+	font-family: 'Open Sans' , sans-serif; 
+	display: block; 
+	 
+	margin-top: 50px; 
+	font-size: 20px; 
+	color: #00004d; 
+	width: 550px; 
+	margin-left: 70px; 
+	
+}
+
+
+
+
+.about-project {
+	
+	position: absolute; 
+	width: 100%; 
+	height: 400px; 
+	top: 1764px; 
+	 
+	
+}
+
+
+
+.github-one-par1 {
+	
+	position: absolute; 
+	left: 30px; 
+	margin-top: 70px; 
+	font-size: 24px; 
+	color: #666; 
+	padding: 10px; 
+	width: 1200px; 
+	font-family: 'Cabin', sans-serif; 
+	
+	
+	
+}
+
+.github-one-par2 {
+	position: absolute; 
+	text-align: center; 
+     display: block; 
+      margin-top: 300px; 
+     font-family: 'Patua One' , cursive; 
+     font-weight: bold; 
+color: #ccc	; font-size: 45px; 
+	left: 32%; 
+	
+	
+	
+}
+.github-one-par3 {
+	position: absolute; 
+	text-align: center; 
+     display: block; 
+      margin-top: 300px; 
+     font-family: 'Patua One' , cursive; 
+      
+color:  #008037	;  font-size: 55px; 
+	left: 34%; 
+	
+	text-decoration: none; 
+	
+}
+.github-one-par3:hover {
+	
+      color: #00662c;
+       
+	  transition: all .5s ; 
+	
+}
+
+
+.btn-contact1 {
+	
+	 position: absolute; 
+	 transform: translate(-50%, -50%); 
+	 margin-top: 450px; 
+	 text-decoration: none; 
+     left: 50%; 
+	 background: #00264d; 
+	 width: 260px; 
+	 height: 80px; 
+	 border: 1px solid #00b359;  
+	 border-radius: 40px; 
+	 transition: .6s; 
+	 overflow: hidden; 
+	 
+	
+	 
+}
+.btn-contact1 a{
+	
+	text-decoration: none; 
+	color: #fff;
+	font-size: 30px;
+    margin-bottom: -30px; 	
+	font-family: 'Alata', sans-serif;
+	margin-left: -45px; 
+    	
+}
+
+.btn-contact1 img{
+	  
+	  width: 40px; 
+	  height: 40px; 
+	  position: absolute; 
+	  margin-left: 10px; 
+    	
+}
+
+.btn-contact1:focus {
+	
+	outline: none; 
+}
+.btn-contact1:before {
+	
+	content: ''; 
+	display: block; 
+	position: absolute; 
+	background: rgba(255,255,255,.5); 
+	width: 60px; 
+	height: 100%; 
+	top: 0; 
+	left: 0; 
+	opacity: .5s; 
+	filter: blur(30px); 
+	transform: translateX(-130px) skewX(-15deg);
+}
+.btn-contact1:after {
+	
+	content: ''; 
+	display: block; 
+	position: absolute; 
+	background: rgba(255,255,255,.2); 
+	width: 30px; 
+	height: 100%; 
+	left: 30px; 
+	top: 0; 
+	opacity: 0; 
+	filter: blur(30px); 
+	transform: translate(-100px) scaleX(-15deg); 
+	
+	
+	
+}
+.btn-contact1:hover {
+	
+	cursor: pointer; 
+	background:  #003366 /*#00b359*/; 
+}
+.btn-contact1:hover:before {
+	
+	transform: translateX(300px) skewX(-15deg); 
+	opacity: 1; 
+	transition: .7s; 
+	
+}
+
+
+
+
+/*Završetak kreiranja prve github-one stranice*/
+
+/*Završetak stilizovanja GitHub linka*/
+
+
+}

@@ -1,0 +1,132 @@
+
+.error-banner {
+	
+	width: 1349px;	
+    margin: auto; 	
+}
+.error-content {
+	
+	 width: 1200px !important; 
+	 height: 550px !Important; 
+	 background: #f2f2f2; 
+	 margin: 50px auto; 
+}
+
+
+.error-subject1 {
+	
+	font-family: 'Cabin' , sans-serif; 
+	font-size: 70px; 
+	color: #111; 
+	margin-left: 50px; 
+	margin-top: 50px; 
+	position: absolute; 
+}
+.error-subject2 {
+	
+	font-family: 'Cabin' , sans-serif; 
+	font-size: 70px; 
+	color: #999; 
+	margin-left: 50px; 
+	margin-top: 130px; 
+	position: absolute; 
+}
+.error-subject3 {
+	
+	font-family: 'Cabin' , sans-serif; 
+	font-size: 35px; 
+	color: #111;  
+	margin-top: 230px; 
+	margin-left: 50px; 
+	position: absolute; 
+}
+.error-img {
+	
+	position: absolute; 
+	right: 200px; 
+	margin-top: 50px;
+	width: 400px; 
+	height: 400px; 
+	
+	
+	
+}
+
+.error-content .btn-contact {
+	
+	 
+	 transform: translate(-50%, -50%); 
+	 margin-top: 400px; 
+	 text-decoration: none; 
+     margin-left: 116px; 
+	 background: #00b359; 
+	 width: 130px; 
+	 height: 35px; 
+	 border: 1px solid #00b359;  
+	 border-radius: 4px; 
+	 transition: .6s; 
+	 overflow: hidden; 
+	 color: #fff;
+	font-size: 14px;
+	text-transform: uppercase; 
+	font-family: 'Cabin', sans-serif;
+	
+	 
+}
+
+.error-content .a-btn-contact {
+	
+	text-decoration: none; 
+	color: #fff;
+	font-size: 14px;
+	text-transform: uppercase; 
+	font-family: 'Cabin', sans-serif;
+    	
+}
+.error-content .btn-contact:focus {
+	
+	outline: none; 
+}
+.error-content .btn-contact:before {
+	
+	content: ''; 
+	display: block; 
+	position: absolute; 
+	background: rgba(255,255,255,.5); 
+	width: 60px; 
+	height: 100%; 
+	top: 0; 
+	left: 0; 
+	opacity: .5s; 
+	filter: blur(30px); 
+	transform: translateX(-130px) skewX(-15deg);
+}
+.error-content .btn-contact:after {
+	
+	content: ''; 
+	display: block; 
+	position: absolute; 
+	background: rgba(255,255,255,.2); 
+	width: 30px; 
+	height: 100%; 
+	left: 30px; 
+	top: 0; 
+	opacity: 0; 
+	filter: blur(30px); 
+	transform: translate(-100px) scaleX(-15deg); 
+	
+	
+	
+}
+.error-content .btn-contact:hover {
+	
+	cursor: pointer; 
+	background:  #00e673 /*#00b359*/; 
+}
+.error-content .btn-contact:hover:before {
+	
+	transform: translateX(300px) skewX(-15deg); 
+	opacity: 1; 
+	transition: .7s; 
+	
+}
